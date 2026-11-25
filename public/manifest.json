@@ -1,0 +1,24 @@
+{
+  "name": "WOMAN DREAM HAIR",
+  "short_name": "WOMAN DREAM HAIR",
+  "description": "Gestion des prestations et recettes de WOMAN DREAM HAIR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcf3f5",
+  "theme_color": "#824457",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/woman-dream-hair-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/woman-dream-hair-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
